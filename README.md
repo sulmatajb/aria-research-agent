@@ -87,11 +87,6 @@ You (Telegram)
 All agents share a SQLite task queue (aria.db)
 ```
 
-## Built for
-
-Besnik Sulmataj — DBA Dissertation, Westcliff University
-*From Single Home to Grid Edge: Economic Viability and Deployment Architecture for Agentic AI in Residential Energy Management*
-
 ## License
 
 MIT
