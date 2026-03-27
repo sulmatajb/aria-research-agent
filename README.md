@@ -2,7 +2,8 @@
 
 A multi-agent AI system controlled via Telegram. Send a research question; ARIA coordinates a team of specialized agents and returns a structured brief with verified sources saved directly to your Zotero library.
 
-![ARIA Diagram](aria_diagram.excalidraw)
+<img width="1925" height="1104" alt="image" src="https://github.com/user-attachments/assets/afa34057-b118-4fc9-bf33-8ed6872c6d65" />
+
 
 ## How it works
 
